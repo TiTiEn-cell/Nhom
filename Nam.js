@@ -7,6 +7,7 @@ export default function Nam() {
         <Text>abc</Text>
         <Text>ift</Text>
         <Text>Hello</Text>
+        <Text>Testing</Text>
     </View>
   );
 }
