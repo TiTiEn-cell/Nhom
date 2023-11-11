@@ -6,7 +6,7 @@ export default function Tai() {
     <View style={styles.container}>
       <Text>Hello</Text>
       <Text>Nam</Text>
-
+    <Text>Nam</Text>
     </View>
   );
 }
