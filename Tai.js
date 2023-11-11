@@ -7,6 +7,7 @@ export default function Tai() {
       <Text>Hello</Text>
       <Text>Nam</Text>
     <Text>Nam</Text>
+    <Text>Tai</Text>
     </View>
   );
 }
