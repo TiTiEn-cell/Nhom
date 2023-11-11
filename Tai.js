@@ -4,7 +4,8 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function Tai() {
   return (
     <View style={styles.container}>
-      Tai
+      <Text>Hello</Text>
+      <Text>Nam</Text>
     </View>
   );
 }
