@@ -6,6 +6,7 @@ export default function Nam() {
     <View style={styles.container}>
         <Text>abc</Text>
         <Text>ift</Text>
+        <Text>Hello</Text>
     </View>
   );
 }
