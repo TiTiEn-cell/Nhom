@@ -4,7 +4,11 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function Nam() {
   return (
     <View style={styles.container}>
-      Nam
+        <Text>abc</Text>
+        <Text>ift</Text>
+        <Text>Hello</Text>
+        <Text>Testing</Text>
+        
     </View>
   );
 }
