@@ -1,11 +1,10 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import Tai from './Tai';
-import Nam from './Nam';
-export default function App() {
+
+export default function Nam() {
   return (
     <View style={styles.container}>
-      <Tai/>
+      Nam
     </View>
   );
 }
